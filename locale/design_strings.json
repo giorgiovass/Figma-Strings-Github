@@ -1,0 +1,17 @@
+{
+  "app.cart": "Add to cart",
+  "app.describe": "The best place to discover wonderful household furniture to make your home beautiful",
+  "app.get_started": "Get Started",
+  "app.greeting": "Welcome back",
+  "app.header": "MAKE YOUR HOME BEAUTIFUL",
+  "app.product.description": "This stand is made of natural wood. The design is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. ",
+  "app.product.title": "Minimal Stand",
+  "app.rating_value": "4.5",
+  "app.reviews": "{{count}} reviews",
+  "app.sign_in": "SIGN IN",
+  "app.signin.email": "Email",
+  "app.signup": "SIGN UP",
+  "app.signup.password": "Password",
+  "app.signup.password_forgot": "Forgot password?",
+  "app.welcome": "Hello!"
+}
