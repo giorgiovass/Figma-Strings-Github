@@ -1,21 +1,37 @@
 phrase:
-  access_token: 9e148e7b677499b6791862abf9164417247bb0c677ee0baffa8f892ae85717da
-  project_id: d249c33eff0638d764f8cf80d6756b64
-  file format: yml
+  access_token: 6793ef4095e83447bdf7942e0d4eba5738cb28b610b8676543df7ee21156c929
+  project_id: ae0435c905ce64faf6ead4b6857f67d8
+  file format: json
   
   
   push:
     sources:
-    - file: ./locale/sample.yml
+    - file: ./locale/design_strings.json
       params:
-        file_format: yml
-        locale_id: 2fd485bbe3496e78f4bdaa70aeb65cef
+        file_format: json
+        locale_id: 49d852e766934ba68841f34e24de760c
         update_translations: true
         
         
   pull:
     targets:
-    - file: ./locale/sample-ES.yml
+    - file: ./locale/design_strings_<locale>.json
       params:
-        file_format: yml
-        locale_id: d1d933943429c133c553c67bcfe22b38
+        file_format: json
+        locale_id: ac0265f6a082e613dd1699c88a3d4b66
+
+
+  pull:
+    targets:
+    - file: ./locale/design_strings_<locale>.json
+      params:
+        file_format: json
+        locale_id: 5076bba88c91e942e5d58aa2fafca4a7
+
+
+  pull:
+    targets:
+    - file: ./locale/design_strings_<locale>.json
+      params:
+        file_format: json
+        locale_id: aa74096d6c9fa5dad70e418b5f0413b8
