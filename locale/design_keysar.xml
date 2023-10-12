@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.product.title">الحد الأدنى من الحامل</string>
+    <string name="app.product.title.13">اجعل منزلك أكثر جمالا</string>
+    <string name="app.product.title.14">أفضل مكان لاكتشاف الأثاث الرائع لجعل منزلك جميلا</string>
+    <string name="app.product.title.15">ابدأ الآن</string>
+    <string name="app.product.title1">إضافة إلى السلة</string>
+    <string name="app.product.title10">تسجيل الدخول</string>
+    <string name="app.product.title11">مرحباً بك مرة أخرى!</string>
+    <string name="app.product.title12">مرحباً بك مرة أخرى!</string>
+    <string name="app.product.title2">" {{count}} التعليقات"</string>
+    <string name="app.product.title3">4.5</string>
+    <string name="app.product.title4">"هذا الحامل مصنوع من الخشب الطبيعي. التصميم بسيط للغاية وبسيط. هذه حقا واحدة من أفضل القطع لأي منزل. متوفر في 3 ألوان مختلفة ، يمكنك بسهولة اختيار أفضل تطابق لمنزلك. "</string>
+    <string name="app.product.title5">مرحبا!</string>
+    <string name="app.product.title6">البريد الإلكتروني</string>
+    <string name="app.product.title7">شعار</string>
+    <string name="app.product.title8">نسيت كلمة المرور</string>
+    <string name="app.product.title9">التسجيل</string>
+    <string name="app.welcome-copy-copy">مرحباً بك مرة أخرى!</string>
+    <string name="supercool.key">كيف حالك؟</string>
+</resources>
