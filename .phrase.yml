@@ -10,7 +10,7 @@ phrase:
       params:
         file_format: xml
         locale_id: 49d852e766934ba68841f34e24de760c
-        update_translations: true
+        update_translations: false
         
         
   pull:
