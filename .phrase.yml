@@ -18,20 +18,4 @@ phrase:
     - file: ./locale/design_keys_<locale_code>.xml
       params:
         file_format: xml
-        locale_id: ac0265f6a082e613dd1699c88a3d4b66
 
-
-  pull:
-    targets:
-    - file: ./locale/design_keys_<locale_code>.xml
-      params:
-        file_format: xml
-        locale_id: 5076bba88c91e942e5d58aa2fafca4a7
-
-
-  pull:
-    targets:
-    - file: ./locale/design_keys_<locale_code>.xml
-      params:
-        file_format: xml
-        locale_id: aa74096d6c9fa5dad70e418b5f0413b8
