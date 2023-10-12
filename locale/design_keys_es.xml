@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.product.title">Soporte mínimo</string>
+    <string name="app.product.title.13">EMBELLECE AÚN MÁS TU HOGAR</string>
+    <string name="app.product.title.14">El mejor lugar para descubrir muebles maravillosos para embellecer tu hogar</string>
+    <string name="app.product.title.15">Comenzar</string>
+    <string name="app.product.title1">Añadir a la cesta</string>
+    <string name="app.product.title10">INICIA SESIÓN</string>
+    <string name="app.product.title11">¡Bienvenido de nuevo!</string>
+    <string name="app.product.title12">¡Bienvenido de nuevo!</string>
+    <string name="app.product.title2">" {{count} opiniones"</string>
+    <string name="app.product.title3">4.5</string>
+    <string name="app.product.title4">"Este soporte está hecho de madera natural. El diseño es muy simple y minimalista. Esta es realmente una de las mejores piezas para cualquier hogar. Disponible en 3 colores diferentes, puede seleccionar fácilmente la mejor combinación para su hogar. "</string>
+    <string name="app.product.title5">¿Cómo estás?</string>
+    <string name="app.product.title6">Correo electrónico</string>
+    <string name="app.product.title7">Contraseña</string>
+    <string name="app.product.title8">Olvidé mi contraseña</string>
+    <string name="app.product.title9">ÚNETE</string>
+    <string name="app.welcome-copy-copy">¡Bienvenido de nuevo!</string>
+</resources>

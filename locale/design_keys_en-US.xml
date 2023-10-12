@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.product.title">Minimal Stand</string>
+    <string name="app.product.title.13">MAKE YOUR HOME EVEN MORE BEAUTIFUL</string>
+    <string name="app.product.title.14">The best place to discover wonderful furniture to make your home beautiful</string>
+    <string name="app.product.title.15">Get Started</string>
+    <string name="app.product.title1">Add to cart</string>
+    <string name="app.product.title10">SIGN IN</string>
+    <string name="app.product.title11">Welcome back!</string>
+    <string name="app.product.title12">Welcome back!</string>
+    <string name="app.product.title2">" {{count}} reviews"</string>
+    <string name="app.product.title3">4.5</string>
+    <string name="app.product.title4">"This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. "</string>
+    <string name="app.product.title5">How are you?</string>
+    <string name="app.product.title6">Email</string>
+    <string name="app.product.title7">Password</string>
+    <string name="app.product.title8">Forgot Password</string>
+    <string name="app.product.title9">SIGN UP</string>
+    <string name="app.welcome-copy-copy">Welcome back!</string>
+</resources>
