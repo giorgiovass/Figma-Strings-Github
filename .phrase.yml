@@ -1,7 +1,7 @@
 phrase:
   access_token: 6793ef4095e83447bdf7942e0d4eba5738cb28b610b8676543df7ee21156c929
-  project_id: ae0435c905ce64faf6ead4b6857f67d8
-  file format: json
+  project_id: 9aa75e3876323e4ecc736662cf64e3ac
+  file format: xml
   
   
   push:
@@ -9,13 +9,27 @@ phrase:
     - file: ./locale/design_keys.xml
       params:
         file_format: xml
-        locale_id: 49d852e766934ba68841f34e24de760c
+        locale_id: fc921652f5ba79f909fe18b1003c556b
         update_translations: false
         
         
   pull:
     targets:
     - file: ./locale/design_keys_<locale_code>.xml
-      params:
+      params: 
+        locale_id: 464cc005e1b0eba9806f7fab1791283a
         file_format: xml
 
+  pull:
+    targets:
+    - file: ./locale/design_keys_<locale_code>.xml
+      params: 
+        locale_id: 320bae652ac36520bf3dbee58a464a61
+        file_format: xml
+
+  pull:
+    targets:
+    - file: ./locale/design_keys_<locale_code>.xml
+      params: 
+        locale_id: 91af85dfafe38c2707d8abd37f2849f0
+        file_format: xml
