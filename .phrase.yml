@@ -19,16 +19,10 @@ phrase:
       params: 
         locale_id: 464cc005e1b0eba9806f7fab1791283a
         file_format: xml
-
-  pull:
-    targets:
     - file: ./locale/design_keys_<locale_code>.xml
       params: 
         locale_id: 320bae652ac36520bf3dbee58a464a61
         file_format: xml
-
-  pull:
-    targets:
     - file: ./locale/design_keys_<locale_code>.xml
       params: 
         locale_id: 91af85dfafe38c2707d8abd37f2849f0
