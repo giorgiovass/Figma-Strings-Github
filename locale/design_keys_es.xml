@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app.cart">Añadir a la cesta</string>
+    <string name="app.cart">Añadir a la cesta TEST CHANGE</string>
     <string name="app.describe">El mejor lugar para descubrir muebles maravillosos para embellecer su hogar</string>
     <string name="app.get_started">Comenzar</string>
     <string name="app.greeting">¡Bienvenido de nuevo!</string>
