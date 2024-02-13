@@ -5,6 +5,8 @@
     <string name="app.get_started">Empezar</string>
     <string name="app.greeting">¡Bienvenido de nuevo!</string>
     <string name="app.greeting_2">¡Bienvenido de nuevo!</string>
+    <string name="app.greeting_3">Hola a todos!</string>
+    <string name="app.greeting_5">Hola a todos, version 2!</string>
     <string name="app.header">HAGA SU CASA HERMOSA</string>
     <string name="app.product.description">"Este soporte está fabricado de madera natural. El diseño es muy simple y minimalista. Esta es verdaderamente una de las mejores piezas para cualquier hogar. Disponible en 3 colores diferentes, puedes seleccionar fácilmente el que mejor combine con tu hogar. "</string>
     <string name="app.product.title">Soporte mínimo</string>
