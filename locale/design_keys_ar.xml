@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">إضافة إلى السلة</string>
+    <string name="app.describe">أفضل مكان لاكتشاف الأثاث الرائع لجعل منزلك جميلا</string>
+    <string name="app.get_started">ابدأ الآن</string>
+    <string name="app.greeting">مرحباً بك مرة أخرى!</string>
+    <string name="app.greeting_2">مرحباً بك مرة أخرى!</string>
+    <string name="app.header">اجعل منزلك جميلا</string>
+    <string name="app.product.description">"هذا الحامل مصنوع من الخشب الطبيعي. التصميم بسيط للغاية وبسيط. هذه حقا واحدة من أفضل القطع لأي منزل. متوفر في 3 ألوان مختلفة ، يمكنك بسهولة اختيار أفضل تطابق لمنزلك. "</string>
+    <string name="app.product.title">الحد الأدنى من الحامل</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">" {{count}} التعليقات"</string>
+    <string name="app.sign_in">تسجيل الدخول</string>
+    <string name="app.signin.email">البريد الإلكتروني</string>
+    <string name="app.signup">التسجيل</string>
+    <string name="app.signup.password">شعار</string>
+    <string name="app.signup.password_forgot">نسيت كلمة المرور</string>
+    <string name="app.welcome">مرحبا!</string>
+</resources>
