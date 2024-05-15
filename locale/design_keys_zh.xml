@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">最小支架</string>
+    <string name="app.cart1">添加到购物车</string>
+    <string name="app.cart10">报名</string>
+    <string name="app.cart11">登入</string>
+    <string name="app.cart12">欢迎！</string>
+    <string name="app.cart2">" {{count}} 评论"</string>
+    <string name="app.cart3">4.5</string>
+    <string name="app.cart4">这个支架是由天然木材制成的。设计非常简单且简约。这确实是任何家庭的最佳家具之一。有 3 种不同颜色可供选择，您可以轻松选择最适合您家居的颜色。</string>
+    <string name="app.cart5">寻找精美家具，让您的家更美丽的最佳去处</string>
+    <string name="app.cart6">你好！</string>
+    <string name="app.cart7">电子邮件</string>
+    <string name="app.cart8">密码</string>
+    <string name="app.cart9">"忘记密码 "</string>
+    <string name="app.get_started">立即开始</string>
+    <string name="app.header">让你的家更美丽</string>
+</resources>
