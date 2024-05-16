@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">الحد الأدنى من الوقوف</string>
+    <string name="app.cart1">أضف إلى السلة</string>
+    <string name="app.cart10">اشتراك</string>
+    <string name="app.cart11">تسجيل الدخول</string>
+    <string name="app.cart12">مرحباً!</string>
+    <string name="app.cart2">" {{count}} المراجعات"</string>
+    <string name="app.cart3">4.5</string>
+    <string name="app.cart4">"هذا الحامل مصنوع من الخشب الطبيعي. التصميم بسيط للغاية والحد الأدنى. إنها حقًا واحدة من أفضل القطع لأي منزل. متوفر بثلاثة ألوان مختلفة، يمكنك بسهولة اختيار أفضل ما يناسب منزلك. "</string>
+    <string name="app.cart5">أفضل مكان لاكتشاف الأثاث الرائع لجعل منزلك جميلاً</string>
+    <string name="app.cart6">مرحبًا!</string>
+    <string name="app.cart7">بريد إلكتروني</string>
+    <string name="app.cart8">كلمة المرور</string>
+    <string name="app.cart9">"هل نسيت كلمة السر "</string>
+    <string name="app.footer">هذا يذهب في القاع!</string>
+    <string name="app.get_started">البدء</string>
+    <string name="app.header">جعل منزلك أكثر جمالا</string>
+</resources>
