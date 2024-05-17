@@ -27,7 +27,7 @@ phrase:
       params: 
         locale_id: e712b4a56f887e24e27afd23554f6d6f
         file_format: xml
-    - file: ./locale/design_keys_<locale_code>.xml
+    - file: ./locale/design_keys.xml
       params: 
         locale_id: d24ca12b80122492c4b3a6d672b8bb9c
         file_format: xml
