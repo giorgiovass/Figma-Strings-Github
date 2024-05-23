@@ -1,6 +1,7 @@
-<note>
-<to>Tove</to>
-<from>Jani</from>
-<heading>Reminder</heading>
-<body>Don't forget me this weekend!</body>
-</note>
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="button1">Click here</string>
+    <string name="button2">Return home</string>
+    <string name="button3">Get Started</string>
+    <string name="button4">Logout</string>
+</resources>
