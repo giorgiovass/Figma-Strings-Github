@@ -1,20 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app.cart">Add to cart</string>
-    <string name="app.describe">The best place to discover wonderful household furniture to make your home beautiful</string>
+    <string name="app.describe">The best place to discover wonderful furniture to make your home beautiful</string>
+    <string name="app.describe1">Text1 for translation</string>
     <string name="app.get_started">Get Started</string>
     <string name="app.greeting">Welcome!</string>
     <string name="app.header">MAKE YOUR HOME BEAUTIFUL</string>
-    <string name="app.product.description">"This stand is made of natural wood. The design is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. "</string>
+    <string name="app.product.description">"This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. "</string>
     <string name="app.product.title">Minimal Stand</string>
     <string name="app.rating_value">4.5</string>
-    <string name="app.reviews">{{count}} reviews</string>
+    <string name="app.reviews">" {{count}} reviews"</string>
     <string name="app.sign_in">SIGN IN</string>
     <string name="app.signin.email">Email</string>
     <string name="app.signup">SIGN UP</string>
     <string name="app.signup.password">Password</string>
     <string name="app.signup.password_forgot">Forgot password?</string>
-    <string name="app.welcome">Hello!</string>
+    <!-- This is a button that the user will click -->
+    <string name="button.1.clickable">Click here</string>
+    <!-- This is a button that the user will click -->
+    <string name="button.2.clickable">Send email</string>
+    <!-- This is also button, but the end URL has not been developed yet -->
+    <string name="button.3.clickable">Report a bug?</string>
+    <!-- The text inside the {brackets} should not be translated! -->
+    <string name="filter.text">{number of users} users online right now</string>
+    <!-- This is a string key -->
+    <string name="key1">Hello!</string>
+    <!-- This is also a string key -->
+    <string name="key2">Thank you for joining us</string>
+    <string name="key3">We want to present something to you.</string>
+    <string name="key4">Best regards</string>
+    <string name="sample.text">This is where we are going</string>
+    <string name="sample.text.1">Name of report 1</string>
+    <string name="sample.text.2">Name of report 2</string>
 </resources>
-
-
