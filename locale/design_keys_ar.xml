@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">أضف إلى عربة التسوق</string>
+    <string name="app.describe">أفضل مكان لاكتشاف الأثاث الرائع لجعل منزلك جميلًا</string>
+    <string name="app.get_started">ابدأ</string>
+    <string name="app.greeting">أهلا بك!</string>
+    <string name="app.header">اجعل منزلك جميلًا</string>
+    <string name="app.product.description">"هذا الحامل مصنوع من الخشب الطبيعي. التصميم بسيط للغاية وبسيط. إنها حقًا واحدة من أفضل القطع لأي منزل. متوفر بثلاثة ألوان مختلفة، يمكنك بسهولة اختيار أفضل تطابق لمنزلك. "</string>
+    <string name="app.product.title">الحد الأدنى من الحامل</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">" {{count}} مراجعات"</string>
+    <string name="app.sign_in">تسجيل الدخول</string>
+    <string name="app.signin.email">البريد الإلكتروني</string>
+    <string name="app.signup">قم بالتسجيل</string>
+    <string name="app.signup.password">كلمة المرور</string>
+    <string name="app.signup.password_forgot">هل نسيت كلمة المرور؟</string>
+    <!-- This is a button that the user will click -->
+    <string name="button.1.clickable">انقر هنا</string>
+    <!-- This is a button that the user will click -->
+    <string name="button.2.clickable">إرسال بريد إلكتروني</string>
+    <!-- This is also button, but the end URL has not been developed yet -->
+    <string name="button.3.clickable">الإبلاغ عن خطأ؟</string>
+    <!-- The text inside the {brackets} should not be translated! -->
+    <string name="filter.text">{number of users} المستخدمون على الإنترنت الآن</string>
+    <!-- This is a string key -->
+    <string name="key1">مرحبا!</string>
+    <!-- This is also a string key -->
+    <string name="key2">شكرًا لانضمامك إلينا</string>
+    <string name="key3">نريد أن نقدم لك شيئًا.</string>
+    <string name="key4">مع أطيب التحيات</string>
+    <string name="sample.text">هذا هو المكان الذي سنذهب إليه</string>
+    <string name="sample.text.1">اسم التقرير 1</string>
+    <string name="sample.text.2">اسم التقرير 2</string>
+</resources>

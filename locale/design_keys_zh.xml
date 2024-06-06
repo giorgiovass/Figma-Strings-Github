@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">添加到购物车</string>
+    <string name="app.describe">发现精美家具的最佳场所，让您的家美轮美奂</string>
+    <string name="app.get_started">开始</string>
+    <string name="app.greeting">欢迎光临</string>
+    <string name="app.header">美化家园</string>
+    <string name="app.product.description">该支架由天然木材制成。设计非常简单、简约。这确实是最适合任何家庭的作品之一。有 3 种不同的颜色可供选择，您可以轻松选择最适合您家的搭配。</string>
+    <string name="app.product.title">最小支架</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">" {{count}} 评论"</string>
+    <string name="app.sign_in">登录</string>
+    <string name="app.signin.email">电子邮件</string>
+    <string name="app.signup">注册</string>
+    <string name="app.signup.password">密码</string>
+    <string name="app.signup.password_forgot">忘记密码？</string>
+    <!-- This is a button that the user will click -->
+    <string name="button.1.clickable">点击此处</string>
+    <!-- This is a button that the user will click -->
+    <string name="button.2.clickable">发送电子邮件</string>
+    <!-- This is also button, but the end URL has not been developed yet -->
+    <string name="button.3.clickable">报告错误？</string>
+    <!-- The text inside the {brackets} should not be translated! -->
+    <string name="filter.text">{number of users} 在线用户</string>
+    <!-- This is a string key -->
+    <string name="key1">你好</string>
+    <!-- This is also a string key -->
+    <string name="key2">感谢您加入我们</string>
+    <string name="key3">我们想向您介绍一些东西。</string>
+    <string name="key4">致以最诚挚的问候</string>
+    <string name="sample.text">这就是我们要去的地方</string>
+    <string name="sample.text.1">报告名称 1</string>
+    <string name="sample.text.2">报告名称 2</string>
+</resources>

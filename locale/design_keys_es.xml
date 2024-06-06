@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">Añadir a la cesta</string>
+    <string name="app.describe">El mejor lugar para descubrir muebles maravillosos para embellecer tu hogar</string>
+    <string name="app.get_started">Empezar</string>
+    <string name="app.greeting">¡Bienvenido!</string>
+    <string name="app.header">EMBELLECE TU HOGAR</string>
+    <string name="app.product.description">"Este soporte está hecho de madera natural. El diseño es muy simple y minimalista. Esta es realmente una de las mejores piezas para cualquier hogar. Disponible en 3 colores diferentes, puedes seleccionar fácilmente el que mejor se adapte a tu hogar. "</string>
+    <string name="app.product.title">Soporte mínimo</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">" {{count} opiniones"</string>
+    <string name="app.sign_in">INICIAR SESIÓN</string>
+    <string name="app.signin.email">Correo electrónico</string>
+    <string name="app.signup">REGÍSTRATE</string>
+    <string name="app.signup.password">Contraseña</string>
+    <string name="app.signup.password_forgot">¿Ha olvidado la contraseña?</string>
+    <!-- This is a button that the user will click -->
+    <string name="button.1.clickable">Haga clic aquí</string>
+    <!-- This is a button that the user will click -->
+    <string name="button.2.clickable">Enviar correo electrónico</string>
+    <!-- This is also button, but the end URL has not been developed yet -->
+    <string name="button.3.clickable">¿Reportar un error?</string>
+    <!-- The text inside the {brackets} should not be translated! -->
+    <string name="filter.text">{number of users} usuarios en línea en este momento</string>
+    <!-- This is a string key -->
+    <string name="key1">¡Hola!</string>
+    <!-- This is also a string key -->
+    <string name="key2">Gracias por acompañarnos</string>
+    <string name="key3">Queremos presentarte algo.</string>
+    <string name="key4">Saludos cordiales</string>
+    <string name="sample.text">Aquí es adonde vamos</string>
+    <string name="sample.text.1">Nombre del informe 1</string>
+    <string name="sample.text.2">Nombre del informe 2</string>
+</resources>
