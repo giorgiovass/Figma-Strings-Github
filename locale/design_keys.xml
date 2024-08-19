@@ -5,6 +5,7 @@
     <string name="app.get_started">Get Started</string>
     <string name="app.greeting">Welcome!</string>
     <string name="app.header">MAKE YOUR HOME BEAUTIFUL</string>
+    <string name="app.mellow">Mellow Greetings and Salutations!</string>
     <string name="app.product.description">"This stand is made of natural wood. The design is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. "</string>
     <string name="app.product.title">minimal Stand</string>
     <string name="app.rating_value">4.5</string>
@@ -15,7 +16,8 @@
     <string name="app.signup.password">Password</string>
     <string name="app.signup.password_forgot">Forgot password?</string>
     <string name="app.welcome">Hello!</string>
-    <string name="app.mellow">Mellow Greetings and Salutations!</string>
+    <string name="button1">Click here</string>
+    <string name="button2">Return home</string>
+    <string name="button3">Get Started</string>
+    <string name="button4">Logout</string>
 </resources>
-
-
