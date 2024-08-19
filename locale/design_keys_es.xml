@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="button1">Haga clic aquí</string>
+    <string name="button2">Volver a casa</string>
+    <string name="button3">Empieza</string>
+    <string name="button4">Cerrar sesión</string>
+</resources>
