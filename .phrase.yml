@@ -11,27 +11,22 @@ phrase:
         file_format: xml
         locale_id: d24ca12b80122492c4b3a6d672b8bb9c
         update_translations: false
-        tags: test
         
   pull:
     targets:
     - file: ./locale/design_keys_<locale_code>.xml
       params: 
         locale_id: 39c45c249f5a3cacc5b2a8878573b4f8
-        tags: text
         file_format: xml
     - file: ./locale/design_keys_<locale_code>.xml
       params: 
         locale_id: df95d47d78c5c516edb82706dd255b76
-        tags: text
         file_format: xml
     - file: ./locale/design_keys_<locale_code>.xml
       params: 
         locale_id: e712b4a56f887e24e27afd23554f6d6f
-        tags: text
         file_format: xml
     - file: ./locale/design_keys.xml
       params: 
         locale_id: d24ca12b80122492c4b3a6d672b8bb9c
-        tags: text
         file_format: xml
