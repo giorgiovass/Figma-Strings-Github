@@ -21,6 +21,7 @@
     <string name="app.signup">SIGN UP</string>
     <string name="app.signup.password">Password</string>
     <string name="app.signup.password_forgot">Forgot password?</string>
+    <string name="app.warning">Warning! This will delete all your progress. Continue?</string>
     <string name="app.welcome">Welcome!</string>
     <string name="gitlab_key">This is from Gitlab!</string>
     <string name="my_key">This is a translation.</string>
