@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app.cart">Add to cart</string>
+    <string name="app.cart">Add to cart with this button</string>
     <string name="app.describe">The best place to discover wonderful household furniture to make your home beautiful</string>
     <string name="app.get_started">Get Started</string>
     <string name="app.greeting">Welcome!</string>
@@ -16,6 +16,7 @@
     <string name="app.signup.password_forgot">Forgot password?</string>
     <string name="app.welcome">Hello!</string>
     <string name="app.mellow">Mellow Greetings and Salutations!</string>
+    <string name="app.warning">Warning! This action will delete all your progress. Continue?</string>
 </resources>
 
 
