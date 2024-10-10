@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="acp_test_7">تنتمي اللغات الأوروبية إلى نفس العائلة. إن وجودهم المنفصل هو أسطورة؛ بالنسبة للعلوم والموسيقى والرياضة وما إلى ذلك، تستخدم أوروبا نفس المفردات. تختلف اللغات فقط في قواعدها ونطقها وكلماتها الأكثر شيوعًا.</string>
+    <string name="apc_test_1">اختبار إنشاء المشروع الآلي... الحالة: {state}</string>
+    <string name="apc_test_2">اختبار إنشاء المشروع الآلي مرة أخرى...</string>
+    <string name="apc_test_3">مرحبًا بالعالم!</string>
+    <string name="apc_test_4">ماي براند</string>
+    <string name="apc_test_5">اليوم هو يوم رائع للترجمة الآلية!</string>
+    <string name="apc_test_6">هذا نص إضافي. يرجى ترجمته.</string>
+    <string name="apc_test_8">اليوم هو يوم رائع!</string>
+    <string name="app.cart">أضف إلى السلة</string>
+    <string name="app.describe">أفضل مكان لاكتشاف الأثاث الرائع لجعل منزلك جميلاً</string>
+    <string name="app.get_started_button">ابدأ هنا!</string>
+    <string name="app.header">اجعل منزلك جميلاً</string>
+    <string name="app.product.description">"هذا الحامل مصنوع من الخشب الطبيعي. التصميم بسيط للغاية وبسيط. هذه حقًا واحدة من أفضل القطع لأي منزل. متوفر بثلاثة ألوان مختلفة، يمكنك بسهولة اختيار الأنسب لمنزلك. "</string>
+    <string name="app.product.title">الحد الأدنى من الموقف</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">" {{count}} المراجعات"</string>
+    <string name="app.sign_in">تسجيل الدخول</string>
+    <string name="app.signin.email">البريد الإلكتروني</string>
+    <string name="app.signup">اشترك</string>
+    <string name="app.signup.password">كلمة المرور</string>
+    <string name="app.signup.password_forgot">نسيت كلمة المرور؟</string>
+    <string name="app.warning">تحذير! المتابعة ستؤدي إلى حذف تقدمك. استمر؟</string>
+    <string name="app.welcome">مرحبًا!</string>
+    <string name="gitlab_key">هذا من Gitlab!</string>
+    <string name="my_key">هذه ترجمة.</string>
+    <string name="my_key_2">هذه ترجمة أخرى.</string>
+    <string name="my_key_3">هذه ترجمة أخرى.</string>
+</resources>

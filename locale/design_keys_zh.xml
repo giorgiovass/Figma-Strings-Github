@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="acp_test_7">欧洲语言同属一个语系。在科学、音乐、体育等领域，欧洲使用相同的词汇。这两种语言只在语法、发音和最常用的词汇上有所不同。</string>
+    <string name="apc_test_1">测试自动项目创建......状态： {state}</string>
+    <string name="apc_test_2">再次测试自动项目创建...</string>
+    <string name="apc_test_3">世界你好</string>
+    <string name="apc_test_4">我的品牌</string>
+    <string name="apc_test_5">今天是机器翻译的大日子！</string>
+    <string name="apc_test_6">这里还有一些文字。请翻译一下。</string>
+    <string name="apc_test_8">今天真是个好日子！</string>
+    <string name="app.cart">添加到购物车</string>
+    <string name="app.describe">发现精美家具的最佳场所，让您的家美轮美奂</string>
+    <string name="app.get_started_button">从这里开始！</string>
+    <string name="app.header">美化家园</string>
+    <string name="app.product.description">该支架由天然木材制成。设计非常简单、简约。这确实是最适合任何家庭的作品之一。有 3 种不同的颜色可供选择，您可以轻松选择最适合您家的搭配。</string>
+    <string name="app.product.title">最小支架</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">" {{count}} 评论"</string>
+    <string name="app.sign_in">登录</string>
+    <string name="app.signin.email">电子邮件</string>
+    <string name="app.signup">注册</string>
+    <string name="app.signup.password">密码</string>
+    <string name="app.signup.password_forgot">忘记密码？</string>
+    <string name="app.warning">警告继续将删除您的进度。继续？</string>
+    <string name="app.welcome">欢迎光临</string>
+    <string name="gitlab_key">这是 Gitlab 提供的！</string>
+    <string name="my_key">这是译文。</string>
+    <string name="my_key_2">这是另一种译法。</string>
+    <string name="my_key_3">这是另一种翻译。</string>
+</resources>
