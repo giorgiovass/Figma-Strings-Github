@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app.cart">Add to cart with this button right here that you can click with your mouse; but make sure to use the left-click!</string>
+    <string name="app.cart">Add to cart by clicking this button at the top of the page. This string will not be brought over for translation, but I'm not sure why.</string>
     <string name="app.describe">The best place to discover wonderful household furniture to make your home beautiful</string>
     <string name="app.get_started">Get Started</string>
     <string name="app.greeting">Welcome!</string>
@@ -19,6 +19,7 @@
     <string name="app.warning">Warning! This action will delete all your progress. Continue?</string>
     <string name="app.notification">Notice!</string>
     <string name="app.notification-ver2">Notice! This is ver 2</string>
+    <string name="app.notification-ver3">This is a brand new key, and it will be picked up for translation.</string>
 </resources>
 
 
