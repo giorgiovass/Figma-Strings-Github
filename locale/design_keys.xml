@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string name="acp_test_7">The European languages are members of the same family. Their separate existence is a myth; for science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words.</string>
+    <string name="apc_test_1">Testing automated project creation... status: {state}</string>
+    <string name="apc_test_2">Testing automated project creation again...</string>
+    <string name="apc_test_3">Hello World!</string>
+    <string name="apc_test_4">MyBrand</string>
+    <string name="apc_test_5">Today is a great day for Machine Translation!</string>
+    <string name="apc_test_6">This is some more text. Please translate it.</string>
+    <string name="apc_test_8">Today is such a great day!</string>
     <string name="app.cart">Add to cart</string>
     <string name="app.describe">The best place to discover wonderful furniture to make your home beautiful</string>
     <string name="app.get_started_button">Get Started here!</string>
-    <string name="app.greeting">Welcome!</string>
     <string name="app.header">MAKE YOUR HOME BEAUTIFUL</string>
     <string name="app.product.description">"This stand is made of natural wood. The design  is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. "</string>
     <string name="app.product.title">Minimal Stand</string>
@@ -14,4 +21,9 @@
     <string name="app.signup">SIGN UP</string>
     <string name="app.signup.password">Password</string>
     <string name="app.signup.password_forgot">Forgot password?</string>
+    <string name="app.welcome">Welcome!</string>
+    <string name="gitlab_key">This is from Gitlab!</string>
+    <string name="my_key">This is a translation.</string>
+    <string name="my_key_2">This is another translation.</string>
+    <string name="my_key_3">This is yet another translation.</string>
 </resources>
