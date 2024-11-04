@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app.cart">Add to cart by clicking this button at the top of the page.</string>
+    <string name="app.cart">Add to cart by clicking this button at the top of the page!</string>
     <string name="app.describe">The best place to discover wonderful household furniture to make your home beautiful.</string>
     <string name="app.get_started">Get Started</string>
     <string name="app.greeting">Welcome!</string>
