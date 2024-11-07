@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app.cart">Add to cart by clicking this button at the top of the page!</string>
+    <string name="app.cart">Add to cart by clicking this button at the top of the page right here!</string>
     <string name="app.describe">The best place to discover wonderful household furniture to make your home beautiful.</string>
     <string name="app.get_started">Get Started</string>
     <string name="app.greeting">Welcome!</string>
@@ -12,10 +12,9 @@
     <string name="app.sign_in">sign IN</string>
     <string name="app.signin.email">Email</string>
     <string name="app.signup">SIGN UP</string>
-    <string name="app.signup.password">Password</string>
-    <string name="app.signup.password_forgot">Forgot password?</string>
+    <string name="app.signup.passw0rd">Password</string>
+    <string name="app.signup.passw0rd_forgot">Forgot password?</string>
     <string name="app.welcome">Hello!</string>
-    <string name="app.mellow">Mellow Greetings and Salutations!</string>
 </resources>
 
 
