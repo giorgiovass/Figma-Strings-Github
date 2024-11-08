@@ -17,6 +17,7 @@
     <string name="app.welcome">Hello!</string>
     <string name="app.copyright">©!</string>
     <string name="app.happyface">:grinning:</string>
+    <string name="app.happyface_2">&#128515;</string>
 </resources>
 
 
