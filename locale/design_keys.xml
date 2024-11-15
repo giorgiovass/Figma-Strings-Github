@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app.cart">Add to cart by clicking this button at the top of the page.</string>
-    <string name="app.describe">The best place to discover wonderful household furniture to make your home beautiful.</string>
+    <string name="app.cart">Add to cart by clicking this button at the top of this page.</string>
+    <string name="app.copyright">©!</string>
+    <string name="app.describe">The best place to discover wonderful household furniture to make your home more beautiful.</string>
     <string name="app.get_started">Get Started</string>
     <string name="app.greetings">Welcome here!</string>
+    <string name="app.happyface">:grinning:</string>
+    <string name="app.happyface_2">😃</string>
+    <string name="app.happyface_3">😊</string>
     <string name="app.header">MAKE YOUR HOME BEAUTIFUL</string>
     <string name="app.product.description">"This stand is made of natural wood. The design is very simple and minimal. This is truly one of the best pieces for any home. Available in 3 different colors, you can easily select the best match for your home. "</string>
     <string name="app.product.title">Minimal Stand</string>
@@ -15,10 +19,4 @@
     <string name="app.signup.password">Password</string>
     <string name="app.signup.password_forgot">Forgot password?</string>
     <string name="app.welcome">Hello!</string>
-    <string name="app.copyright">©!</string>
-    <string name="app.happyface">:grinning:</string>
-    <string name="app.happyface_2">&#128515;</string>
-    <string name="app.happyface_3">😊</string>
 </resources>
-
-
