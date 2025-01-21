@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">¡¡¡¡Añadir a la cesta haciendo clic en este botón en la parte superior de la página aquí !!!!</string>
+    <string name="app.copyright">©!</string>
+    <string name="app.describe">El mejor lugar para descubrir muebles maravillosos para hacer que su hogar sea aún más bonito, ¿vale?</string>
+    <string name="app.get_started">Empezar</string>
+    <string name="app.greetings">Bienvenido.</string>
+    <string name="app.happyface">:grinning:</string>
+    <string name="app.happyface_2">😃</string>
+    <string name="app.happyface_3">😊</string>
+    <string name="app.header">EMBELLECE AÚN MÁS TU HOGAR</string>
+    <string name="app.product.description">"Este soporte es de madera natural. El diseño es muy sencillo y minimalista. Esta es realmente una de las mejores piezas para cualquier hogar. Disponible en 3 colores diferentes, podrá elegir fácilmente el que mejor combine con su hogar. "</string>
+    <string name="app.product.title">Stand mínimo</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">{{count} opiniones</string>
+    <string name="app.sign_in">firmar IN</string>
+    <string name="app.signin.email">Correo electrónico</string>
+    <string name="app.signup">INSCRÍBETE</string>
+    <string name="app.signup.password">Contraseña</string>
+    <string name="app.signup.password_forgot">¿Ha olvidado su contraseña?</string>
+    <string name="app.welcome">¡Hola!</string>
+</resources>
