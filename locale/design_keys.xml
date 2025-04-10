@@ -14,7 +14,4 @@
     <string name="app.signup">SIGN UP</string>
     <string name="app.signup.password">Password</string>
     <string name="app.signup.password_forgot">Forgot password?</string>
-    <string name="app.welcome">Hello!</string>
-    <string name="app.plural">There are Results”: “{n, plural, zero{No results found} one{One results} other {About # results}}</string>
-    <string name="app.plural_double">There are apples”: “{{n, plural, zero{{No apples found}} one{{One apples}} other {{About # apples}}}</string>
 </resources>
