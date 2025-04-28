@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app.cart">点击页面顶部的此按钮将商品加入购物车。</string>
+    <string name="app.cart">点击此页面顶部的此按钮将商品加入购物车。</string>
     <string name="app.describe">这里是发现美妙家居家具的最佳去处，让您的家更美丽。</string>
     <string name="app.get_started">立即开始！</string>
     <string name="app.greetings">欢迎!</string>
