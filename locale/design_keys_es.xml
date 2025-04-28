@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">Añade al carrito haciendo clic en este botón en la parte superior de la página.</string>
+    <string name="app.describe">El mejor lugar para descubrir muebles domésticos maravillosos para embellecer tu hogar.</string>
+    <string name="app.get_started">Empezar</string>
+    <string name="app.greetings">¡Bienvenido!!!!!!!</string>
+    <string name="app.header">HACE QUE TU HOGAR SEA AÚN MÁS HERMOSO</string>
+    <string name="app.product.description">"Este soporte está hecho de madera natural. El diseño es muy simple y minimalista. Esta es verdaderamente una de las mejores piezas para cualquier hogar. Disponible en 3 colores diferentes, puedes seleccionar fácilmente el que mejor se adapta a tu hogar. "</string>
+    <string name="app.product.title">Stand Mínimo</string>
+    <string name="app.rating_value">4.5.</string>
+    <string name="app.reviews">" {{count}} opiniones"</string>
+</resources>
