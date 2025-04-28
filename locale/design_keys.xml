@@ -9,5 +9,4 @@
     <string name="app.product.title">Minimal Stand!</string>
     <string name="app.rating_value">4.5</string>
     <string name="app.reviews">{{count}} reviews</string>
-    <string name="app.sign_in">sign IN</string>
 </resources>
