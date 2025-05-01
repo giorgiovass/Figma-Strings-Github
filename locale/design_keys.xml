@@ -2,7 +2,7 @@
 <resources>
     <string name="app.cart">Add to cart, this time I will upload the file manually.</string>
     <string name="app.describe">The best place to discover wonderful household furniture to make your home beautiful</string>
-    <string name="app.get_started">Get Started</string>
+    <string name="app.get_started">Get Started here</string>
     <string name="app.greeting">Welcome back</string>
     <string name="app.greeting.snowflake">Welcome back</string>
     <string name="app.header">MAKE YOUR HOME BEAUTIFUL</string>
