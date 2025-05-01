@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">Añadir al carrito, esta vez subiré el archivo manualmente.</string>
+    <string name="app.describe">El mejor lugar para descubrir muebles maravillosos para embellecer tu hogar.</string>
+    <string name="app.get_started">Empieza aquí</string>
+    <string name="app.greeting">¡Bienvenido de nuevo OTRA VEZ!</string>
+    <string name="app.greeting.snowflake">¡Bienvenido de nuevo OTRA VEZ!</string>
+    <string name="app.header">HAGA SU CASA HERMOSA</string>
+    <string name="app.product.description">"Este soporte está fabricado de madera natural. El diseño es muy simple y minimalista. Esta es verdaderamente una de las mejores piezas para cualquier hogar. Disponible en 3 colores diferentes, puedes seleccionar fácilmente el que mejor combine con tu hogar. "</string>
+    <string name="app.product.title">Soporte mínimo</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">" {{count} opiniones"</string>
+    <string name="app.sign_in">INICIE SESIÓN AQUÍ</string>
+    <string name="app.signin.email">Correo electrónico WAHOOOOOO</string>
+    <string name="app.signup">INSCRIBIRSE</string>
+    <string name="app.signup.password">Contraseña=isima</string>
+    <string name="app.signup.password_forgot">Has olvidado tu contraseña</string>
+    <string name="app.welcome">¡Bienvenido!</string>
+</resources>
