@@ -16,4 +16,5 @@
     <string name="app.signup.password">Password</string>
     <string name="app.signup.password_forgot">Forgot password?</string>
     <string name="app.welcome">Welcome!</string>
+    <string name="app.welcome_v2">Hi there!</string>
 </resources>
