@@ -10,7 +10,7 @@ phrase:
       params:
         file_format: xml
         locale_id: d24ca12b80122492c4b3a6d672b8bb9c
-        tags: mentioned
+        tags: tag2
         update_translations: true
   pull:
     targets:
