@@ -4,7 +4,7 @@
     "welcome_message": {
       "comment": "Welcome message shown on the home screen",
       "localizations": {
-        "en": {
+        "en-US": {
           "stringUnit": {
             "state": "translated",
             "value": "Welcome to our app!"
@@ -15,7 +15,7 @@
     "logout_confirmation": {
       "comment": "Confirmation message before logging out",
       "localizations": {
-        "en": {
+        "en-US": {
           "stringUnit": {
             "state": "translated",
             "value": "Are you sure you want to log out?"
@@ -26,7 +26,7 @@
     "error_network": {
       "comment": "Error message shown when network is unavailable",
       "localizations": {
-        "en": {
+        "en-US": {
           "stringUnit": {
             "state": "translated",
             "value": "Network connection lost. Please try again."
