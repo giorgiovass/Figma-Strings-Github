@@ -1,12 +1,12 @@
 phrase:
   access_token: 6793ef4095e83447bdf7942e0d4eba5738cb28b610b8676543df7ee21156c929
   project_id: a9098423eddd49aace6e8aab562f5df5
-  file format: xml
+  file_format: strings_catalog
   
   
   push:
     sources:
-    - file: ./locale/<tag>.xcstrings
+    - file: ./locale/apple.xcstrings
       params:
         file_format: strings_catalog
         locale_id: d24ca12b80122492c4b3a6d672b8bb9c
@@ -14,7 +14,7 @@ phrase:
         update_translations: true
   pull:
     targets:
-    - file: ./locale/<tag>_<locale_name>.xcstrings
+    - file: ./locale/apple-localized.xcstrings
       params: 
         locale_id: d24ca12b80122492c4b3a6d672b8bb9c # Main language for the download
         locale_ids: # Additional languages to include
