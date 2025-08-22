@@ -4,10 +4,10 @@
     "error_network": {
       "comment": "Error message shown when network is unavailable",
       "localizations": {
-        "zh": {
+        "en-US": {
           "stringUnit": {
             "state": "translated",
-            "value": "网络连接丢失。请重试。"
+            "value": "Network connection lost. Please try again."
           }
         },
         "es": {
@@ -15,16 +15,22 @@
             "state": "translated",
             "value": "Conexión de red perdida. Por favor, inténtelo de nuevo."
           }
+        },
+        "zh": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网络连接丢失。请重试。"
+          }
         }
       }
     },
     "logout_confirmation": {
       "comment": "Confirmation message before logging out",
       "localizations": {
-        "zh": {
+        "en-US": {
           "stringUnit": {
             "state": "translated",
-            "value": "是否确实要注销？"
+            "value": "Are you sure you want to log out?"
           }
         },
         "es": {
@@ -32,22 +38,34 @@
             "state": "translated",
             "value": "¿Estás seguro de que quieres cerrar sesión?"
           }
+        },
+        "zh": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "是否确实要注销？"
+          }
         }
       }
     },
     "welcome_message": {
       "comment": "Welcome message shown on the home screen",
       "localizations": {
-        "zh": {
+        "en-US": {
           "stringUnit": {
             "state": "translated",
-            "value": "歡迎"
+            "value": "Welcome to our app!"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Bienvenido a nuestra aplicación!"
+          }
+        },
+        "zh": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "歡迎"
           }
         }
       }
