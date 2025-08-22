@@ -16,8 +16,8 @@ phrase:
     targets:
     - file: ./locale/<tag>_<locale_name>.xcstrings
       params: 
-        locale_id: en-US # Main language for the download
+        locale_id: d24ca12b80122492c4b3a6d672b8bb9c # Main language for the download
         locale_ids: # Additional languages to include
-          - ar
-          - es
-          - zh
+          - 39c45c249f5a3cacc5b2a8878573b4f8
+          - df95d47d78c5c516edb82706dd255b76
+          - e712b4a56f887e24e27afd23554f6d6f
