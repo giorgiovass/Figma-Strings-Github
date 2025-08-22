@@ -1,0 +1,57 @@
+{
+  "sourceLanguage": "en-US",
+  "strings": {
+    "error_network": {
+      "comment": "Error message shown when network is unavailable",
+      "localizations": {
+        "zh": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网络连接丢失。请重试。"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conexión de red perdida. Por favor, inténtelo de nuevo."
+          }
+        }
+      }
+    },
+    "logout_confirmation": {
+      "comment": "Confirmation message before logging out",
+      "localizations": {
+        "zh": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "是否确实要注销？"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Estás seguro de que quieres cerrar sesión?"
+          }
+        }
+      }
+    },
+    "welcome_message": {
+      "comment": "Welcome message shown on the home screen",
+      "localizations": {
+        "zh": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "歡迎"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bienvenido a nuestra aplicación!"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
