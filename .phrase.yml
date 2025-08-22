@@ -6,23 +6,15 @@ phrase:
   
   push:
     sources:
-    - file: ./locale/<tag>.xml
+    - file: ./locale/<tag>.xcstrings
       params:
-        file_format: xml
+        file_format: xcstrings
         locale_id: d24ca12b80122492c4b3a6d672b8bb9c
         tags: tag2
         update_translations: true
   pull:
     targets:
-    - file: ./locale/design_keys_<locale_name>.xml
+    - file: ./locale/design_keys_<locale_name>.xcstrings
       params: 
-        locale_id: 39c45c249f5a3cacc5b2a8878573b4f8
-        file_format: xml
-    - file: ./locale/design_keys_<locale_name>.xml
-      params: 
-        locale_id: df95d47d78c5c516edb82706dd255b76
-        file_format: xml
-    - file: ./locale/design_keys_<locale_name>.xml
-      params: 
-        locale_id: e712b4a56f887e24e27afd23554f6d6f
-        file_format: xml
+        locale_id: d24ca12b80122492c4b3a6d672b8bb9c
+        file_format: xcstrings
