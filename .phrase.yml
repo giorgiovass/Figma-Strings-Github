@@ -16,7 +16,7 @@ phrase:
     targets:
     - file: ./locale/apple-localized.xcstrings
       params: 
-        locale_id: # Additional languages to include
+        locale_ids: # Additional languages to include
           - 39c45c249f5a3cacc5b2a8878573b4f8
           - df95d47d78c5c516edb82706dd255b76
           - e712b4a56f887e24e27afd23554f6d6f
