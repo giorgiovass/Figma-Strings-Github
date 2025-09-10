@@ -1,20 +1,20 @@
 phrase:
   access_token: 6793ef4095e83447bdf7942e0d4eba5738cb28b610b8676543df7ee21156c929
   project_id: a9098423eddd49aace6e8aab562f5df5
-  file_format: strings_catalog
+  file_format: json
   
   
   push:
     sources:
-    - file: ./locale/apple.xcstrings
+    - file: ./locale/*.json
       params:
-        file_format: strings_catalog
+        file_format: json
         locale_id: d24ca12b80122492c4b3a6d672b8bb9c
         tags: tag2
         update_translations: true
   pull:
     targets:
-    - file: ./locale/apple-localized.xcstrings
+    - file: ./locale/*.json
       params: 
         locale_id: d24ca12b80122492c4b3a6d672b8bb9c
         locale_ids: # Additional languages to include
