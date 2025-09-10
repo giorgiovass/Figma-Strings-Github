@@ -14,15 +14,15 @@ phrase:
         
   pull:
     targets:
-    - file: ./locale/<tag>_<locale_name>.json
+    - file: ./locale/JourneyWidget_<locale_name>.json
       params: 
         locale_id: 39c45c249f5a3cacc5b2a8878573b4f8
         file_format: i18next
-    - file: ./locale/<tag>_<locale_name>.json
+    - file: ./locale/JourneyWidget_<locale_name>.json
       params: 
         locale_id: df95d47d78c5c516edb82706dd255b76
         file_format: i18next
-    - file: ./locale/<tag>_<locale_name>.json
+    - file: ./locale/JourneyWidget_<locale_name>.json
       params: 
         locale_id: e712b4a56f887e24e27afd23554f6d6f
         file_format: i18next
