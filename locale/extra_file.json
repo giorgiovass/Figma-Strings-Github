@@ -1,0 +1,9 @@
+{
+    "": "Customer Journey Widget",
+    "common": {
+        "String1": "Hello!",
+        "String2": "Welcome to our app!",
+        "String3": "Click here to log in!",
+        "String4": "Forgot your password?"
+    }
+}
