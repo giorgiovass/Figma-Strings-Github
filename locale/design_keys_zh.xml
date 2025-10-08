@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">放进购物车吧！</string>
+    <string name="app.describe">这里是发现超棒家居、打造漂亮家园的最佳去处哦！</string>
+    <string name="app.get_started">点这里开始我们的冒险！</string>
+    <string name="app.greeting.snowflake">欢迎回来啦！</string>
+    <string name="app.header">让你的家变得超级漂亮！</string>
+    <string name="app.product.description">这个支架是用纯天然的木头做的哦！设计真简单，样子超级清爽！这绝对是每个家必备的宝贝之一哦！有 3 种颜色哦，快来挑选最适合你家的那款吧！</string>
+    <string name="app.product.title">简约风格的支架</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">已有 {{count}} 条评论</string>
+    <string name="app.sign_in">点这里登录哦！</string>
+    <string name="app.signin.email">邮箱</string>
+    <string name="app.signup">快来注册吧！</string>
+    <string name="app.signup.password">密码</string>
+    <string name="app.signup.password_forgot">忘记密码啦？</string>
+    <string name="app.welcome">欢迎！</string>
+    <string name="app.welcome_v2">嗨，朋友！</string>
+</resources>
