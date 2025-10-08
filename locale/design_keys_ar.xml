@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">ضيفها لعربيتك</string>
+    <string name="app.describe">أحلى مكان تكتشف فيه أثاث البيت اللي هيخلي بيتك أحلى.</string>
+    <string name="app.get_started">يلا نبدأ من هنا.</string>
+    <string name="app.header">خَلّي بيتك أحلى</string>
+    <string name="app.product.description">"هذا الحامل معمول من خشب طبيعي. التصميم بسيط جداً وواضح. دي فعلاً من أحلى الحاجات لأي بيت. متوفر بثلاث ألوان، تقدر تختار بسهولة اللون اللي يناسب بيتك. "</string>
+    <string name="app.product.title">حامل بسيط</string>
+    <string name="app.rating_value">4.5</string>
+    <string name="app.reviews">{{count}} تقييمات</string>
+    <string name="app.sign_in">سجّل دخولك من هنا</string>
+    <string name="app.signin.email">إيميل</string>
+    <string name="app.signup">سجّل حسابك</string>
+    <string name="app.signup.password">كلمة السر</string>
+    <string name="app.signup.password_forgot">نسيت كلمة السر؟</string>
+    <string name="app.welcome">يا هلا!</string>
+</resources>
