@@ -15,5 +15,4 @@
     <string name="app.signup.password">Password</string>
     <string name="app.signup.password_forgot">Forgot password?</string>
     <string name="app.welcome">Welcome!</string>
-    <string name="app.ignore" translatable="false">THIS IS METADATA AND SHOULD BE IGNORED!</string>
 </resources>
