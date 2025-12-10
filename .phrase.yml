@@ -9,7 +9,7 @@ phrase:
     - file: ./locale/*.xcstrings
       params:
         file_format: strings_catalog
-        locale_id: d24ca12b80122492c4b3a6d672b8bb9c
+        locale_id: 37463953af7c25bb965f21ab9916571f
         update_translations: true
         
   pull:
