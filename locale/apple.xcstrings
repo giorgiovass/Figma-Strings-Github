@@ -1,0 +1,16 @@
+{
+  "sourceLanguage" : "en-us",
+  "strings" : {
+    "Do you want to unlink %@ %@?" : {
+      "comment" : "Ex: 'Do you want to unlink Fido's Series 3?'",
+      "localizations" : {
+        "en-us" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do you want to unlink %@ %@?"
+          }
+        }
+      }
+    }
+  }
+}
