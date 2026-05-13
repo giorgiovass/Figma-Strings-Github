@@ -1,13 +1,42 @@
 {
-  "appName": "MyApplication",           // Name of the application
-  "version": "1.0.0",                   // Semantic versioning
-  "description": "A sample application configuration file",
-  "author": "Jane Doe",
-  <!-- Screenshot: https://preview.redd.it/wvozlsb9z9ug1.jpg?width=1170&format=pjpg&auto=webp&s=24bc48925209ccde8934a7c325f91c924bc5aad6 -->
-  "language": "English",                  // BCP 47 language tag
-  "debugMode": false,                   // Set to true for verbose logging
-  "maxRetries": 3,                      // Number of retry attempts on failure
-  "timeout": 5000,                      // Timeout in milliseconds
-  "baseUrl": "https://api.example.com", // API base URL — no trailing slash
-  "logLevel": "information can be accessed here"                    // Options: debug, info, warn, error
+  "boolean_key": {
+    "message": "--- true\n"
+  },
+  "empty_string_translation": {
+    "message": ""
+  },
+  "key_with_description": {
+    "message": "Check it! Key has a description! (In some formats)",
+    "description": "I'm a very important description for this key!"
+  },
+  "key_with_line-break": {
+    "message": "This translations contains\na line-break."
+  },
+  "nested.deeply.key": {
+    "message": "  I'm nested deeply."
+  },
+  "nested.key": {
+    "message": "This key is nested inside a namespace."
+  },
+  "null_translation": {
+    "message": null
+  },
+  "pluralized_key.one": {
+    "message": "Only one pluralization found."
+  },
+  "pluralized_key.other": {
+    "message": "Wow, you have %s pluralizations!"
+  },
+  "pluralized_key.zero": {
+    "message": "You have no pluralization."
+  },
+  "sample_collection": {
+    "message": "---\n- first item\n- second item\n- third item\n"
+  },
+  "simple_key": {
+    "message": "I am a simple key with a simple message."
+  },
+  "unverified_key": {
+    "message": "Not yet verified waiting for it. (In some formats we also export this status)"
+  }
 }
