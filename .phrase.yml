@@ -8,7 +8,7 @@
     sources:
     - file: ./locale/apple.json
       params:
-        file_format: simple_json
+        file_format: json
         locale_id: d24ca12b80122492c4b3a6d672b8bb9c
         tags: etiqueta1-sep-29
         update_translations: true
