@@ -3,6 +3,7 @@
   "version": "1.0.0",                   // Semantic versioning
   "description": "A sample application configuration file",
   "author": "Jane Doe",
+  <!-- Screenshot: https://preview.redd.it/wvozlsb9z9ug1.jpg?width=1170&format=pjpg&auto=webp&s=24bc48925209ccde8934a7c325f91c924bc5aad6 -->
   "language": "English",                  // BCP 47 language tag
   "debugMode": false,                   // Set to true for verbose logging
   "maxRetries": 3,                      // Number of retry attempts on failure
