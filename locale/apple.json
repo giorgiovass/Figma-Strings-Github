@@ -1,1 +1,12 @@
-hello!
+{
+  "appName": "MyApplication",           // Name of the application
+  "version": "1.0.0",                   // Semantic versioning
+  "description": "A sample application configuration file",
+  "author": "Jane Doe",
+  "language": "English",                  // BCP 47 language tag
+  "debugMode": false,                   // Set to true for verbose logging
+  "maxRetries": 3,                      // Number of retry attempts on failure
+  "timeout": 5000,                      // Timeout in milliseconds
+  "baseUrl": "https://api.example.com", // API base URL — no trailing slash
+  "logLevel": "information can be accessed here"                    // Options: debug, info, warn, error
+}
