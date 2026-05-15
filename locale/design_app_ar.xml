@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.product.title"/>
+    <string name="app.rating_value"/>
+    <string name="app.reviews">{{count}} تقييمًا</string>
+    <string name="app.sign_in">تسجيل الدخول</string>
+    <string name="app.signin.email">بريد إلكتروني</string>
+    <string name="app.signup">اشتراك</string>
+    <string name="app.signup.password">كلمة المرور</string>
+    <string name="app.signup.password_forgot">هل نسيت كلمة السر؟</string>
+    <string name="app.welcome">مرحباً!</string>
+</resources>
