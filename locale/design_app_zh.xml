@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.product.title"/>
+    <string name="app.rating_value"/>
+    <string name="app.reviews"/>
+    <string name="app.sign_in"/>
+    <string name="app.signin.email"/>
+    <string name="app.signup"/>
+    <string name="app.signup.password"/>
+    <string name="app.signup.password_forgot"/>
+    <string name="app.welcome"/>
+</resources>

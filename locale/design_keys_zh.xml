@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart"/>
+    <string name="app.describe"/>
+    <string name="app.get_started"/>
+    <string name="app.greeting"/>
+    <!-- Screenshot: https://preview.redd.it/wvozlsb9z9ug1.jpg?width=1170&format=pjpg&auto=webp&s=24bc48925209ccde8934a7c325f91c924bc5aad6 -->
+    <string name="app.header"/>
+    <string name="app.product.description"/>
+    <string name="length_01_button_short"/>
+</resources>
