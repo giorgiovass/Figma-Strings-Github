@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">أضف إلى السلة</string>
+    <string name="app.describe">أفضل مكان لاكتشاف أثاث منزلي رائع يجعل منزلك أكثر جمالاً.</string>
+    <string name="app.get_started">ابدأ من هنا</string>
+    <string name="app.greeting">مرحبًا بعودتك</string>
+    <!-- Screenshot: https://preview.redd.it/wvozlsb9z9ug1.jpg?width=1170&format=pjpg&auto=webp&s=24bc48925209ccde8934a7c325f91c924bc5aad6 -->
+    <string name="app.header">اجعل منزلك أكثر جمالاً</string>
+    <string name="app.product.description">هذا الحامل مصنوع من الخشب الطبيعي، ويتميز بتصميم بسيط وأنيق. إنه حقاً من أفضل القطع التي تناسب أي منزل. متوفر بثلاثة ألوان مختلفة، لتختار منها ما يناسب ذوقك بكل سهولة.</string>
+    <string name="length_01_button_short">يحفظ</string>
+</resources>
