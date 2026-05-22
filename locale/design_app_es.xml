@@ -2,7 +2,7 @@
 <resources>
     <string name="app.product.title">Soporte mínimo</string>
     <string name="app.rating_value">4.5</string>
-    <string name="app.reviews">Opiniones sobre {{count}}</string>
+    <string name="app.reviews">{{count}} reseñas</string>
     <string name="app.sign_in">INICIA SESIÓN</string>
     <string name="app.signin.email">Email</string>
     <string name="app.signup">INSCRÍBETE</string>
