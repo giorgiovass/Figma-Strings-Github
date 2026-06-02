@@ -3,6 +3,7 @@
     <string name="app.cart">Add to cart</string>
     <string name="app.describe">The best place to discover wonderful household furniture to make your home more beautiful</string>
     <string name="app.get_started">Get Started here</string>
+    <string name="i18n_confirm" description="This is the description of the string">Confirm</string>
     <string name="length_01_button_short" max-length="15">Save</string>
     <string name="app.greeting">Welcome back</string>
     <!-- Screenshot: https://preview.redd.it/wvozlsb9z9ug1.jpg?width=1170&format=pjpg&auto=webp&s=24bc48925209ccde8934a7c325f91c924bc5aad6 -->
