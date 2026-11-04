@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app.cart">加入购物车</string>
+    <string name="app.clickable"/>
+    <string name="app.describe">探索精美家居家具，让您的家更美观的最佳场所</string>
+    <string name="app.get_started">由此开始</string>
+    <string name="app.greeting">欢迎回来</string>
+    <!-- Screenshot: https://preview.redd.it/wvozlsb9z9ug1.jpg?width=1170&format=pjpg&auto=webp&s=24bc48925209ccde8934a7c325f91c924bc5aad6 -->
+    <string name="app.header">让您的家更美观</string>
+    <string name="app.product.description">此支架由天然木材制成。其设计非常简约。这确实是任何家庭的最佳单品之一。提供3种不同颜色，您可以轻松选择最适合您家的款式。</string>
+    <string name="empty_key"/>
+    <string name="empty_key_v2"/>
+    <string name="i18n_confirm">确认</string>
+    <string name="length_01_button_short">保存</string>
+</resources>
